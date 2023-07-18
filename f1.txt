@@ -1,1 +1,2 @@
 Its time to start coding!
+Lets start with git and github
